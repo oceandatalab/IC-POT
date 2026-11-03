@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.10"
 license = {file = "LICENSE"}
 authors = [
-  {name = "Salil Parth Tripathi", email = "parth.tripathi@oceandatalab.com"},
+  {name = "Parth Tripathi", email = "parth.tripathi@oceandatalab.com"},
   {name = "Bertrand Chapron"},
   {name = "Fabrice Collard"},
   {name = "Nicolas Courty"},

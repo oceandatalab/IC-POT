@@ -143,7 +143,7 @@ Disclaimer : LLM tools have been used to help develop this library
 ```bibtex
 @inproceedings{tripathi2026icpot,
   title     = {Take It or Leave It: Intent-Controlled Partial Optimal Transport},
-  author    = {Tripathi, Salil Parth and Chapron, Bertrand and Collard, Fabrice and Courty, Nicolas and Fablet, Ronan},
+  author    = {Tripathi, Parth and Chapron, Bertrand and Collard, Fabrice and Courty, Nicolas and Fablet, Ronan},
   booktitle = {Advances in Neural Information Processing Systems},
   year      = {2026}
 }
