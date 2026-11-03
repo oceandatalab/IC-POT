@@ -2,7 +2,8 @@
 
 This repository contains a small reference implementation of
 intent-controlled partial optimal transport (IC-POT), the formulation introduced
-in the accompanying anonymous NeurIPS submission. The goal of the package is to
+in "Take It or Leave It: Intent-Controlled Partial Optimal Transport" (NeurIPS 2026,
+[arXiv:2605.20030](https://arxiv.org/abs/2605.20030)). The goal of the package is to
 make the mathematical object in the paper easy to reproduce and inspect, not to
 provide a large production framework.
 
@@ -136,3 +137,14 @@ that the IC-POT constraints hold, that unequal total masses are feasible, and
 that the grid API works.
 
 Disclaimer : LLM tools have been used to help develop this library
+
+## Citation
+
+```bibtex
+@inproceedings{tripathi2026icpot,
+  title     = {Take It or Leave It: Intent-Controlled Partial Optimal Transport},
+  author    = {Tripathi, Salil Parth and Chapron, Bertrand and Collard, Fabrice and Courty, Nicolas and Fablet, Ronan},
+  booktitle = {Advances in Neural Information Processing Systems},
+  year      = {2026}
+}
+```

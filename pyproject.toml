@@ -9,11 +9,20 @@ description = "Intent-controlled partial optimal transport with pointwise unmatc
 readme = "README.md"
 requires-python = ">=3.10"
 license = {file = "LICENSE"}
-authors = [{name = "Anonymous Authors"}]
+authors = [
+  {name = "Salil Parth Tripathi", email = "parth.tripathi@oceandatalab.com"},
+  {name = "Bertrand Chapron"},
+  {name = "Fabrice Collard"},
+  {name = "Nicolas Courty"},
+  {name = "Ronan Fablet"},
+]
 dependencies = [
   "numpy>=1.23",
   "scipy>=1.10",
 ]
+
+[project.urls]
+Homepage = "https://github.com/oceandatalab/IC-POT"
 
 [project.optional-dependencies]
 dev = ["pytest>=7"]
